@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
   res.send(`<!DOCTYPE html>
 <html><head><title>Express Frontend</title></head>
 <body style="font-family:sans-serif;text-align:center;margin-top:60px">
-  <h1>Express Frontend</h1>
+  <h1>Express Frontend v2</h1>
   <p>Message from Flask backend:</p>
   <h2 id="msg">Loading...</h2>
   <script>
